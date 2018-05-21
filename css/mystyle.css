@@ -1,0 +1,19 @@
+@media screen and (max-width : 770px){
+
+    h3{
+     
+      font-size: 25px;
+    }
+
+    h4{
+   
+      font-size: 20px;
+    }
+    h5{
+      font-size: 17px;
+    }
+  
+}
+h3{
+    color: rgb(197, 31, 31)
+}
