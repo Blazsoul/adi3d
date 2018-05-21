@@ -33,7 +33,9 @@ body{
 	-ms-transform: scale(1.05);
 	transform: scale(1.05);
 }
-
+.how-to-do-wrapper{
+	color: red
+}
 .prenota-text{
     position: absolute;
     top: 40%;
