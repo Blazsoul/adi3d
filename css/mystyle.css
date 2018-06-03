@@ -37,7 +37,7 @@ h3{
 }
 .carousel-item-info{
   height: 100%;
-  max-height: 75vh;
+  /* max-height: 75vh; */
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -45,6 +45,9 @@ h3{
 }
 .carousel-caption {
   top: 2%;
+}
+.img-slider{
+  max-height: 75vh;
 }
 
 @media screen and (max-width : 770px){
